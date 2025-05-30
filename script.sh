@@ -1,6 +1,6 @@
 !#/bin/bash
 
-for number in {10..50}
+for number in {11..50}
 do 
     echo "$number"
     if [ "$number" -eq 15 ]; then
